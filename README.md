@@ -21,10 +21,33 @@ Funding the program will be the next step in setting up the bike share, so it's 
 
 *Visualizations*
 
-![Most Common Rental TImes](https://user-images.githubusercontent.com/102566199/180356916-04985bcb-a15f-4d47-8888-0fe20ec40846.png)
+![Most Common Rental Times](https://user-images.githubusercontent.com/102566199/180356916-04985bcb-a15f-4d47-8888-0fe20ec40846.png)
 
+### Users bike checkout times displayed through a line chart to demonstrate the most common rental times.
 
+![User Rental Times by Gender](https://user-images.githubusercontent.com/102566199/180357258-ae702a26-5aac-4580-93ab-5358dcf0405f.png)
 
+### Users bike checkout times displayed through a line chart, which demonstrates usage by gender.
+
+![Trips by Users per Week per Hour](https://user-images.githubusercontent.com/102566199/180357434-88a3051b-f5dc-4d9e-a7e8-7b6f4dcf258b.png)
+
+### Trips Made by Users during the Week (per the hour) displayed through a heat map.
+
+![Trips per Week per Hour by Gender](https://user-images.githubusercontent.com/102566199/180357585-ffe3995b-dbd1-4067-aa7d-ed4211a4e30b.png)
+
+### Trips Made by Users during the Week, per Hours by Gender, displayed through a heatmap.
+
+![Trips by Gender by Weekday](https://user-images.githubusercontent.com/102566199/180357711-d1c7e78a-f364-49b9-8267-938225a68fcf.png)
+
+### User Trips by Gender by Weekday
+
+![Customer Pie Chart](https://user-images.githubusercontent.com/102566199/180357802-3204ccb8-2115-4fa3-b47d-b6b76146dc79.png)
+
+### Count of subscribers vs. customers shown via a pie chart.
+
+![Starting Locations](https://user-images.githubusercontent.com/102566199/180357889-5e2c277f-d9ce-41e9-bc40-2de44b3f2b9f.png)
+
+### A map of the starting locations shows the most prominant locations used by customers.  
 ## Summary
 
 *Additional Visualizations*
