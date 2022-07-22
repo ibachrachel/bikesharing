@@ -48,6 +48,11 @@ Funding the program will be the next step in setting up the bike share, so it's 
 ![Starting Locations](https://user-images.githubusercontent.com/102566199/180357889-5e2c277f-d9ce-41e9-bc40-2de44b3f2b9f.png)
 
 ### A map of the starting locations shows the most prominant locations used by customers.  
+
 ## Summary
 
+Based on the visualizations of the data, there are many takeaways that can lead to a final conclusion on the Bike Share project. The first visualizations show that the main use of the New York CitiBikes is as transportation to work for local commuters. The majority of rides are around 5 minutes and peak around commuting times, both 8 am and 6 pm. This means that the bikes serve as a means of transportation to work more than they are used by tourists of the city. The next couple of visualizations highlight that the largest population using the bikes are men and are subscribers to the program, rather than customers. Although the CitiBike data did show that non-subscribers used the bikes are longer than 5 minutes, perhaps because tourists are using it to go to less predictable locations. 
+
 *Additional Visualizations*
+
+These visualizations help understand that for something like this to work in a location other than New York, it would have to be dramatically rearranged to allow for it to be useable for a more sprawling landscrape, such as Iowa. For this project to truly know that this will work, it would be beneficial to draw more conclusions based on specific criteria that are different between New York and Iowa. A visualization that highlighted the differences in usage based on weather conditions would be beneficial, considering that New York is a coastal location and Iowa is landlocked. Another visualization that would be helpful to look at would be a tracking of the starting and ending locations of non-subscribers. This would help to understand where the tourists are focused and how they are influencing the data.
